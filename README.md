@@ -1,6 +1,7 @@
 # Car Sales DashboardThis project 
 it is a web application dashboard for visualizing car sales data. It is built using Streamlit, Pandas, Plotly Express, and Altair. The application is deployed on Render and provides interactive visualizations to explore the dataset.
-Project Structure
+## Project Structure
+```
 .
 ├── README.md
 ├── app.py
@@ -9,7 +10,7 @@ Project Structure
 │   └── EDA.ipynb
 └── .streamlit
     └── config.toml
-
+```
 ## Features
 - Interactive Visualizations: Includes histograms and scatter plots to explore car sales data.
 - User Controls: Checkboxes to filter and customize the visualizations.
@@ -34,5 +35,5 @@ pip install -r requirements.txt
 
 
 ## Preview 
-- Run the Streamlit app from here(https://car-sales-dashboard-vpbi.onrender.com/)
+- Run the Streamlit app from here (https://car-sales-dashboard-vpbi.onrender.com/)
 
