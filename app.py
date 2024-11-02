@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st 
 import plotly.graph_objects as go
 
-df= pd.read_csv('D:/TT/streamlit/project/vehicles_us.csv')
+df= pd.read_csv('vehicles_us.csv')
 st.write('# Car Sales Data Analysis Dashboard')
 st.write('### Car sales dataset')
 st.dataframe(df)
