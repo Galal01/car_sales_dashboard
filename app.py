@@ -5,8 +5,12 @@ import streamlit as st
 import plotly.graph_objects as go
 from ipywidgets import interact, Checkbox
 
+<<<<<<< HEAD
 
 df= pd.read_csv('D:/TT/streamlit/car_sales_dashboard/vehicles_us.csv')
+=======
+df= pd.read_csv('vehicles_us.csv')
+>>>>>>> 03e5608edeb979f12e4a69b1188b39a8f0cf9854
 st.write('# Car Sales Data Analysis Dashboard')
 st.write('### Car sales dataset')
 st.dataframe(df)
