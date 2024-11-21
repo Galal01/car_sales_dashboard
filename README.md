@@ -37,7 +37,3 @@ pip install -r requirements.txt
 ## Preview 
 - Run the Streamlit app from here (https://car-sales-dashboard-vpbi.onrender.com/)
 
-
-
-## Preview 
-- Run the Streamlit app from here (https://car-sales-dashboard-vpbi.onrender.com/)
