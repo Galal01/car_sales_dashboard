@@ -3,7 +3,6 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st 
 import plotly.graph_objects as go
-from ipywidgets import interact, Checkbox
 
 df= pd.read_csv('D:/TT/streamlit/car_sales_dashboard/vehicles_us.csv')
 df= pd.read_csv('vehicles_us.csv')
