@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Car Sales DashboardThis project 
 it is a web application dashboard for visualizing car sales data. It is built using Streamlit, Pandas, Plotly Express, and Altair. The application is deployed on Render and provides interactive visualizations to explore the dataset.
 ## Project Structure
